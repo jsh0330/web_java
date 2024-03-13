@@ -1,0 +1,15 @@
+package day01;
+
+public class Ex14 {
+	public static void main(String[] args) {
+		
+//		1. 입력받을 변수 3개 만들기
+//		2. Scanner import
+//		3. 입력받기
+//		4. 형변환과 동시에 출력하기
+		
+		String num1 = "", num2 = "", num3 = ""; 
+		
+	}
+
+}
